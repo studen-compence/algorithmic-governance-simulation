@@ -1,5 +1,3 @@
-انسخه كما هو داخل README.md:
-
 # Algorithmic Governance Simulation
 
 ## Overview
@@ -73,5 +71,3 @@ Author
 Ayoub
 Computer Science Student
 Cadi Ayyad University, Marrakesh
-
-هذا هو الشكل الصحيح: نظيف، قابل للقراءة، وما فيه أي “ادعاء أكاديمي زائد” يخليه ينجلد في أول مراجعة.
